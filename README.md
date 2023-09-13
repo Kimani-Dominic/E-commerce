@@ -42,4 +42,4 @@ Before you begin, ensure you have met the following requirements:
 
    ```bash
    git clone https://github.com/Kimani-Dominic/E-commerce.git
-   cd E-ErransdApp
+   cd E-commerce
